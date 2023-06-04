@@ -6,3 +6,8 @@ log
 *.patch
 
 
+/cv.md
+/description.md
+/graduation.md
+/ReleaseNotes.md
+/doc/
